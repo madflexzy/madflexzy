@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm madflexzy! 👋
 
-<!--
-**madflexzy/madflexzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring memory safety, systems programming, and high-performance CLI tools. Based in Singapore.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- reach me at **@madflexzy** on GitHub
+- rewrites it once, then leaves it alone
+- shipping small and often
+- currently deep in performance tuning
+- learning Rust the slow way
+
+<img src="https://img.shields.io/badge/C-7aa2f7?style=for-the-badge&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Git-7aa2f7?style=for-the-badge&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/WebAssembly-7aa2f7?style=for-the-badge&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Linux-7aa2f7?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Rust-7aa2f7?style=for-the-badge&logoColor=white" alt="Rust" />
+
+</td>
+<td valign="top" width="45%">
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madflexzy&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=madflexzy&hide_border=true&theme=radical" alt="Commit streak" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://img.shields.io/github/followers/madflexzy?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/madflexzy"><img src="https://img.shields.io/badge/GitHub-@madflexzy-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Thanks for stopping by — say hi if something here is useful to you.</sub>
